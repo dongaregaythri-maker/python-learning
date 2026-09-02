@@ -4,7 +4,14 @@ for i in range(4):
     print(i)
 
 #print the list of content
+#for loops with list 
 
 l = ["Gaythri", "John", "Alice", "Bob", "Eve"]
 for i in l:
     print(i)
+
+#for loop with string 
+g = "Gaythri"
+for i in g:
+    print (i)
+    
