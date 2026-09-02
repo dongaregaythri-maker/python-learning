@@ -1,0 +1,6 @@
+#write a program to print yes when the age enterd by user is greater than or eqal to 18
+a = int(input("Enter your age: "))
+if(a>=18):
+    print("Yes")
+else:
+    print("No")
