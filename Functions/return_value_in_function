@@ -1,0 +1,7 @@
+def good_day(name, ending):
+    print("good day " + name)
+    print(ending)  
+    return"done"
+
+a = good_day("gayithri", "thankyou")
+print (a)
