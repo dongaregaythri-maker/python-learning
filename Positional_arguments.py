@@ -23,3 +23,14 @@ def student(name, age):
 student("Gaythri", 22)
 
 # Here, "Gaythri" goes to name, and 22 goes to age.
+
+# Let's test your understanding! 😎 Here's a tricky interview-style question on Positional Arguments.
+# Question 1: Predict the output
+
+def display(a, b, c):
+    print(a)
+    print(b)
+    print(c)
+
+display(10, 20, 30)
+display(30, 10, 20)
